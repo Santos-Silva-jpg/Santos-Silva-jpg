@@ -4,7 +4,7 @@
 
 - 🎓 I'm currently studying **Systems Analysis and Development**
 - 💻 I'm working on improving my programming and coding skills
-- 🌱 Currently learning **Python** and **C**
+- 🌱 Currently learning 
 
 ## Languages and Tools:
 
